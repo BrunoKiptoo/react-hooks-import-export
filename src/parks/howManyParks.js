@@ -1,5 +1,8 @@
+
 function howManyParks() {
-  console.log("42 parks!");
+  return (
+    <div>"42 parks!"
+      </div>);
 }
 
 export default howManyParks;
